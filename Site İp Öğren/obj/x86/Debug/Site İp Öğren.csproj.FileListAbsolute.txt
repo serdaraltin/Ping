@@ -1,0 +1,7 @@
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\bin\Debug\Site İp Öğren.exe
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\bin\Debug\Site İp Öğren.pdb
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\obj\x86\Debug\Site_İp_Öğren.Form1.resources
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\obj\x86\Debug\Site_İp_Öğren.Properties.Resources.resources
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\obj\x86\Debug\Site İp Öğren.csproj.GenerateResource.Cache
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\obj\x86\Debug\Site İp Öğren.exe
+c:\users\deadsound\documents\visual studio 2010\Projects\Site İp Öğren\Site İp Öğren\obj\x86\Debug\Site İp Öğren.pdb
